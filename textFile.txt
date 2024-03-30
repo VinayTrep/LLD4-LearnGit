@@ -1,0 +1,2 @@
+this is a new text file for editing purpose
+i would love to add this to git
